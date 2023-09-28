@@ -30,3 +30,11 @@ Real-time chat app using Node.js, Socket.io for seamless communication, and HTML
   <li> A instance of the application will appear in the browser. 
   <li> Copy the url from the address bar and open another instance in another tab or in incognito or on another browser.
 </ol>
+
+#output
+![Screenshot (50)](https://github.com/Karuncode/Real-time-chat-application-/assets/118793683/528e56e0-2f32-4036-be6b-2c8cf8d09502)
+![Screenshot (51)](https://github.com/Karuncode/Real-time-chat-application-/assets/118793683/d76a620b-2621-4fec-ac41-84e0b72df2ff)
+![Screenshot (52)](https://github.com/Karuncode/Real-time-chat-application-/assets/118793683/c19e89d1-07a8-4833-9c33-f0119f2beef4)
+![Screenshot (53)](https://github.com/Karuncode/Real-time-chat-application-/assets/118793683/9fa37f8b-8e5f-4768-a7a6-d6d7ee674d09)
+
+
